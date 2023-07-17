@@ -1,5 +1,3 @@
-aiohttp
-aiohttp[speedups]>=3.7.3
 feedparser
 pyrogram
 tgcrypto
