@@ -1,4 +1,6 @@
 import os
+from dotenv import load_dotenv
+load_dotenv()
 import logging
 import aiohttp
 from io import BytesIO, StringIO
